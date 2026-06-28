@@ -100,6 +100,15 @@ The notebook demonstrates practical applications of data cleaning, exploratory a
 - States receiving NCAP funding generally correspond to historically more polluted regions, reflecting policy prioritization rather than policy impact alone.
 
 ---
+## Sample Visualizations
+
+### State-wise PM2.5 Concentration
+
+![State Ranking](images/state_pm25_ranking.png)
+
+### Delhi PM2.5 Heatmap
+
+![Delhi Heatmap](images/delhi_heatmap.png)
 
 ## Repository Structure
 
