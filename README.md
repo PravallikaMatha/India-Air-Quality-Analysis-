@@ -166,7 +166,6 @@ jupyter notebook India_Air_Quality_Analysis.ipynb
 ## Limitations
 
 - Dataset coverage extends only until 2022.
-- Missing observations were removed during preprocessing where appropriate.
 - Results represent monitoring station measurements and may not fully characterize entire cities or states.
 
 ---
