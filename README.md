@@ -201,11 +201,11 @@ This project is released under the MIT License.
 
 ---
 
-## Author
+## Authors
 
-**Pravallika Matha**
+Pravallika Matha GitHub: https://github.com/PravallikaMatha
 
-Mechanical Engineering Undergraduate  
-Indian Institute of Technology Gandhinagar  
-Indian Institute of Technology Gandhinagar
-ngineering | IIT Gandhinagar*
+Poladasu Tanmai Manjula GitHub: https://github.com/Tanmai1808
+
+Reddyboina Triveni GitHub: https://github.com/Triveni1702
+
